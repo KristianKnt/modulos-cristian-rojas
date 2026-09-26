@@ -1,0 +1,5 @@
+# Ignorar archivos de metadatos de Windows
+*:Zone.Identifier
+
+# Ignorar módulos de Node.js (muy recomendado)
+node_modules/
